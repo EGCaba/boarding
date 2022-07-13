@@ -14,7 +14,7 @@ The Data Science Lab is housed in the Office of Research Computing in the Smiths
 
 ### Compute Resources
 
-* Smithsonian Hydra High-Performance Compute (HPC) Cluster
+* [Smithsonian Hydra High-Performance Compute (HPC) Cluster](https://researchcomputing.si.edu/high-performance-computing-cluster)
 
     *Only available to users with a Smithsonian account*
 
